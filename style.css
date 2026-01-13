@@ -268,7 +268,23 @@ header h1{
     padding: 0;
     width: -webkit-fill-available;
     margin: 0;
- }   
+ }
+     header h1{
+    position: relative;
+    left: 70px;
+  }
+  #menu-toggle{
+        position: absolute;
+        display: block;
+        left: 40px;
+  }
+
+.login-button{
+   padding: 2px;
+    border-radius: 9px 10px;
+    position: relative;
+    left: 24px;
+} 
  .a-cont,.sa-cont,#a-cont{
     margin-left: 0;
     padding: 10px 0px;
@@ -525,6 +541,7 @@ line-break: 1.2;
         .div h1{
 
         }  */
+
 
 
 
