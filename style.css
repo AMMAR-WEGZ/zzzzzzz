@@ -147,7 +147,7 @@ header h1{
     align-items: center;
     gap: 20px;
     padding: 40px;
-    /* margin-left: 180px; */
+    
 }
  .a-cont{
 /* margin-left: -160px; */
@@ -199,7 +199,7 @@ header h1{
     display: block;
     text-align: center;
     width: webkit-fill-available;
-    margin-left: 91px;
+    
 
 }
 
@@ -524,3 +524,4 @@ line-break: 1.2;
         .div h1{
 
         }  */
+
