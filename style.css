@@ -89,7 +89,6 @@ header h1{
 
    header{
     width: -webkit-fill-available;
-       padding:20px 0;
    }
 
    header h1{
@@ -148,7 +147,7 @@ header h1{
     align-items: center;
     gap: 20px;
     padding: 40px;
-    
+    /* margin-left: 180px; */
 }
  .a-cont{
 /* margin-left: -160px; */
@@ -200,7 +199,7 @@ header h1{
     display: block;
     text-align: center;
     width: webkit-fill-available;
-    padding:0;
+    margin-left: 91px;
 
 }
 
@@ -220,7 +219,7 @@ header h1{
 }
 .a-cont,.sa-cont,#a-cont{
     width: webkit-fill-available;
-    margin-left: 0;
+    margin-left: 7px;
         padding: 10px 0px;
         margin-right: auto;
 } 
@@ -264,12 +263,8 @@ header h1{
 
 
 @media (max-width:567px) {
- header, .review, .content{
-    padding: 0;
-    width: -webkit-fill-available;
-    margin: 0;
- }
-     header h1{
+
+  header h1{
     position: relative;
     left: 70px;
   }
@@ -285,12 +280,22 @@ header h1{
     position: relative;
     left: 24px;
 } 
+
+
+
+    header, .review, .content{
+    padding: 0;
+    width: -webkit-fill-available;
+    margin: 0;
+ }   
  .a-cont,.sa-cont,#a-cont{
-    margin-left: 0;
+    margin-left: 7px;
     padding: 10px 0px;
     margin-right: auto;
-   padding:0; 
-} 
+    
+}
+
+
 }
 
 
@@ -305,7 +310,7 @@ header h1{
 display: grid;
 grid-template-columns: 450px 450px;
 gap: 30px;  
-padding: 0;  
+padding: 20px 0 0 20px;  
     }
 
  .s-img,.sa-img{
@@ -539,9 +544,4 @@ line-break: 1.2;
         }
         
         .div h1{
-
         }  */
-
-
-
-
