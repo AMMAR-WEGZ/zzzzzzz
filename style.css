@@ -269,7 +269,7 @@ header h1{
     margin: 0;
  }   
  .a-cont,.sa-cont,#a-cont{
-    margin-left: 75px;
+    margin-left: 7px;
     padding: 10px 0px;
     margin-right: auto;
     
@@ -522,4 +522,5 @@ line-break: 1.2;
         }
         
         .div h1{
+
         }  */
