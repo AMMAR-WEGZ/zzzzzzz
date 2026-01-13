@@ -89,6 +89,7 @@ header h1{
 
    header{
     width: -webkit-fill-available;
+       padding:20px 0;
    }
 
    header h1{
@@ -199,7 +200,7 @@ header h1{
     display: block;
     text-align: center;
     width: webkit-fill-available;
-    
+    padding:0;
 
 }
 
@@ -272,7 +273,7 @@ header h1{
     margin-left: 0;
     padding: 10px 0px;
     margin-right: auto;
-    
+   padding:0; 
 } 
 }
 
@@ -524,5 +525,6 @@ line-break: 1.2;
         .div h1{
 
         }  */
+
 
 
