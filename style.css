@@ -219,7 +219,7 @@ header h1{
 }
 .a-cont,.sa-cont,#a-cont{
     width: webkit-fill-available;
-    margin-left: 6px;
+    margin-left: 0;
         padding: 10px 0px;
         margin-right: auto;
 } 
@@ -269,7 +269,7 @@ header h1{
     margin: 0;
  }   
  .a-cont,.sa-cont,#a-cont{
-    margin-left: 7px;
+    margin-left: 0;
     padding: 10px 0px;
     margin-right: auto;
     
@@ -524,4 +524,5 @@ line-break: 1.2;
         .div h1{
 
         }  */
+
 
